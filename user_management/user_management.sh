@@ -42,7 +42,7 @@ delete_user() {
     else
         userdel "$username"
     fi
-    echo "用户 $username ���删除"
+    echo "用户 $username 已被删除"
 }
 
 # 修改用户密码
