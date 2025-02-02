@@ -28,7 +28,7 @@
 
 1. 下载脚本：
 ```bash
-   wget https://raw.githubusercontent.com/your-username/frp-manager/main/frp_manager.sh
+   wget https://github.com/cuijianzhuang/Shell/blob/master/frp_manager/frp_manager.sh
 ```
 2. 添加执行权限：
 ```bash
