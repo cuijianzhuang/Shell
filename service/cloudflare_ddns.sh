@@ -4,7 +4,7 @@
 auth_token="xxxxxxxxxx"                       # Cloudflare API Token
 zone_identifier="xxxxxxxxxx"                    # Cloudflare 区域 ID
 record_configs=(
-  "ipv6.cuijianzhuang.com:A"
+  "ipv4.cuijianzhuang.com:A"
   # 在此添加更多需要同步的记录，例如:
   # "ipv6.cuijianzhuang.com:AAAA"
 )        # 要同步的记录 (格式: 域名:记录类型)
